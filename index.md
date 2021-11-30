@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Wichai Macharoen
+![alt text](https://sv1.picz.in.th/images/2021/11/30/6ijuK8.jpg)
 
-You can use the [editor on GitHub](https://github.com/chaichaichaichaichai/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Contact
+```
+•tel        :   0972535427
+•email      :   wichai.mac@dome.tu.ac.th
+•facebook   :   Wichai Macharoen
+•instagram  :   tangchaichai
+```
+## Education
+```
+1.Thawaranukul school ... sci/math 
+2.Thammasat University ... DSI04
+```
+## Hobby
+```
+•I'm good at cooking.
+•I like to play basketball
+•play game
+```
+## Passion
+```
+I have high endurance.
+i have adaptive skill.
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaichaichaichaichai/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
